@@ -14,3 +14,8 @@ numpy
 # 
 # (Future packages for NLP, ML, and APIs will be added dynamically.)
 # =====================================================================
+# pip install pypdf2 docling magic-pdf
+# pip install matplotlib
+docling
+# magic-pdf[full]
+matplotlib
