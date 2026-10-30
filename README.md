@@ -22,6 +22,7 @@
 - [x] 成功於虛擬環境內安裝通用套件清單 (`requirements.txt`) 與專屬硬體版本的 PyTorch。
 - [x] 更新本 README 文件，填寫學號、姓名與 PyTorch 環境狀態。
 - [x] 成功使用 Git 完成 `commit` 並 `push` 同步至 GitHub 雲端。
+<<<<<<< HEAD
 
 ### 8. README.md 更新
 
@@ -44,3 +45,5 @@
   - [ ] 成功將核心評估指標匯出為根目錄下的 `metrics.json`。
 
 ```
+=======
+>>>>>>> fa9d175c8860c67456184e7d1ae16dea9d8cc5f1
